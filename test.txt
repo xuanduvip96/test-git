@@ -1,1 +1,2 @@
 dong 1: git co ban nay
+dong 2: sua tren file 1
