@@ -1,3 +1,4 @@
 dong 1: git co ban nay
 dong 2: sua tren file 1
-dong 3: sua tren file 1
+dong 3: sua lan 1 tren file 2
+dong 4: sua tren file 1
